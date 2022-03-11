@@ -1,4 +1,4 @@
-# Applied Data Science Capstone Project Report for IBM Data Science Professional Certificate Course
+# Applied Data Science Capstone Project for Coursera IBM Data Science Professional Certificate 
 
 ## Analysis of crime rate data in São Paulo
 ### Segmenting and Clustering Neighborhoods in Sao Paulo, Brazil
